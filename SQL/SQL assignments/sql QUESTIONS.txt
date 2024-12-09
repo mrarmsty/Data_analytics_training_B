@@ -1,0 +1,11 @@
+1. select first 5 employees ordered by salary 
+2. find the first and last names of employees
+3. Find out all the different genders of the employees
+4. find the number of employees
+5. Find the number of FEMALE employees born after 1970
+6. Find the average AVERAGE salary of male employees
+7. Sum of all employee salaries
+8. Find out how many females and males there are
+9. Find the total sales of each salesman
+10. Find all clients that has 'Ath' in them
+11. Find any branch supplier who is into 'ball'
